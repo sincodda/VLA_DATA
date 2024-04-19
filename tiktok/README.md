@@ -12,6 +12,7 @@ En este archivo, incluye la siguiente configuración:
      url_mansaI = Link 3
      url_mansaII = Link 4
 
-[Download Chrime Driver][Chrome driver]
-
-[Chrome driver]: [URL](https://chromedriver.chromium.org/downloads) "Chrome driver"
+Link de descarga del chrome driver: https://chromedriver.chromium.org/downloads
+               Descargar la version segun la version del nevegador chrome que posea.
+               En este caso es la ultima version. Que tiene algunos cambios a la 
+               anterior.
