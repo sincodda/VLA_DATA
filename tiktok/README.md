@@ -1,8 +1,15 @@
-# Configuración para Ejecutar el Código
+# Proyecto de recopilacion de datos para un curso de ciencia de datos
+
+El archivo requirements tine las librerias a instalar con las versiones usadas con pip install -r requirements.txt
+ya se tendrian qe instalar, sino las pueden hacer una por una.
+
+---
+
+## Configuración para Ejecutar el Código
 
 Para ejecutar el código, sigue estos pasos:
 
-## Crear un archivo .env
+### Crear un archivo .env
 
 En este archivo, incluye la siguiente configuración:
 
