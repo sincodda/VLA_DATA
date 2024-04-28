@@ -1,0 +1,19 @@
+user,Fecha,device_timestamp,like_count,comment_count,Ciudad,Latitud,Longitud,Forecast,Temperatura Promedio (°C),Temperatura Maxima (°C),Temperatura Minima (°C),Precipitación (mm),Nieve (cm),Humedad(%),Visibilidad (km),Velocidad Viento(m/s),Amanecer (s),Atardecer (s),Forecast Time
+capturandoneuquen,2023-07-07,6660,58,,"Villa La Angostura, AR",-40.78,-71.66,Light freezing rain,-0.8,0.8,-2.5,1.4,0.0,87,9.6,9.7,09:11 AM,06:33 PM,2024-04-22 19:09
+_5tadimension,2024-04-06,5765,178,,"Villa La Angostura, AR",-40.78,-71.66,Light drizzle,7.4,9.0,5.6,1.11,0.0,89,9.0,22.3,08:08 AM,07:30 PM,2024-04-22 19:02
+hosteriacohuel,2024-04-08,9,4,,"Villa La Angostura, AR",-40.78,-71.66,Light rain shower,9.4,12.0,3.3,19.77,0.0,86,8.8,23.0,08:10 AM,07:26 PM,2024-04-22 19:00
+juan.rinaldi,2024-04-08,13,0,,"Villa La Angostura, AR",-40.78,-71.66,Light rain shower,9.4,12.0,3.3,19.77,0.0,86,8.8,23.0,08:10 AM,07:26 PM,2024-04-22 19:00
+tec_niko,2024-04-09,0,0,,"Villa La Angostura, AR",-40.78,-71.66,Sunny,4.7,11.8,-0.7,0.0,0.0,65,10.0,11.5,08:11 AM,07:25 PM,2024-04-22 19:00
+tec_niko,2024-04-09,0,0,,"Villa La Angostura, AR",-40.78,-71.66,Sunny,4.7,11.8,-0.7,0.0,0.0,65,10.0,11.5,08:11 AM,07:25 PM,2024-04-22 19:00
+leandroesquivell,2024-04-09,7,0,,"Villa La Angostura, AR",-40.78,-71.66,Sunny,4.7,11.8,-0.7,0.0,0.0,65,10.0,11.5,08:11 AM,07:25 PM,2024-04-22 19:00
+anisa_amatullah.35,2024-04-11,8,0,,"Villa La Angostura, AR",-40.78,-71.66,Moderate or heavy snow showers,1.6,2.3,1.1,0.98,0.47,92,9.1,15.5,08:13 AM,07:22 PM,2024-04-22 19:02
+primerochile,2024-04-12,126,2,,"Villa La Angostura, AR",-40.78,-71.66,Cloudy,4.1,8.9,0.0,0.04,0.0,76,10.0,14.4,08:14 AM,07:20 PM,2024-04-22 19:00
+bahiamansa,2024-04-13,32,3,,"Villa La Angostura, AR",-40.78,-71.66,Patchy rain possible,5.8,6.5,5.3,0.88,0.0,85,10.0,14.4,08:15 AM,07:19 PM,2024-04-22 19:00
+patty_exdance,2024-04-14,33,3,,"Villa La Angostura, AR",-40.78,-71.66,Patchy rain possible,6.9,10.4,5.3,0.33,0.0,86,8.7,9.0,08:16 AM,07:17 PM,2024-04-22 19:02
+patagoniazen2023,2024-04-14,0,0,,"Villa La Angostura, AR",-40.78,-71.66,Patchy rain possible,6.9,10.4,5.3,0.33,0.0,86,8.7,9.0,08:16 AM,07:17 PM,2024-04-22 19:02
+drmichaelgruene,2024-04-16,11,3,,"Villa La Angostura, AR",-40.78,-71.66,Light rain,7.8,9.7,6.5,4.1,0.0,86,9.0,24.8,08:18 AM,07:14 PM,2024-04-22 19:00
+lachicaconlacamara_,2024-04-17,35,1,,"Villa La Angostura, AR",-40.78,-71.66,Cloudy,8.2,13.5,4.7,0.01,0.0,77,10.0,19.1,08:19 AM,07:12 PM,2024-04-22 19:00
+hotelangostura,2024-04-17,28,0,,"Villa La Angostura, AR",-40.78,-71.66,Cloudy,8.2,13.5,4.7,0.01,0.0,77,10.0,19.1,08:19 AM,07:12 PM,2024-04-22 19:00
+hosteriacohuel,2024-04-17,15,3,,"Villa La Angostura, AR",-40.78,-71.66,Cloudy,8.2,13.5,4.7,0.01,0.0,77,10.0,19.1,08:19 AM,07:12 PM,2024-04-22 19:00
+pasteleria_umami,2024-04-18,5,1,,"Villa La Angostura, AR",-40.78,-71.66,Moderate rain at times,10.1,17.2,6.4,11.78,0.0,69,9.4,23.0,08:20 AM,07:11 PM,2024-04-22 19:02
+marcelo.nemirovsky,2024-04-18,19,0,,"Villa La Angostura, AR",-40.78,-71.66,Moderate rain at times,10.1,17.2,6.4,11.78,0.0,69,9.4,23.0,08:20 AM,07:11 PM,2024-04-22 19:02
